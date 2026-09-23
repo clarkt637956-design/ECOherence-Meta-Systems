@@ -1,0 +1,6 @@
+{
+  "name": "QEL Nexus - Quantum Entropy Lattice & Cyber Defense Operations",
+  "description": "Full stack Echo & Witness Protocol v13.0 cyber security intelligence platform featuring real-time 12-phase resonance lattice telemetry, automated incident response, threat telemetry, and Google Docs/Drive executive reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
